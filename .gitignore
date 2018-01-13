@@ -10,3 +10,5 @@ gen
 .gitignore
 JDBC/src/main/resources/
 JDBC/src/test/
+JDBC/target/
+lib/
